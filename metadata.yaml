@@ -1,0 +1,5 @@
+homepage: "https://www.linkedin.com/in/sadikulshadin/"
+documentation: "https://github.com/trackingwithshadin/gtm-dynamic-event-id-generator"
+versions:
+  - sha: "main"
+    changeNotes: "Initial release of Dynamic Event ID Generator."
